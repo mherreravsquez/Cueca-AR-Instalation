@@ -136,6 +136,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4384550719944798656}
   - component: {fileID: -3956446512979644249}
+  - component: {fileID: 5939169164403318505}
   m_Layer: 0
   m_Name: Stand
   m_TagString: Untagged
@@ -172,6 +173,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7022074c13ef8144c917beb8c8fb2897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::FaceCamera
+--- !u!114 &5939169164403318505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5325200982296677070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47d89346d50c0e84996c7a11bf23225b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
 --- !u!1 &6352501216342324958
 GameObject:
   m_ObjectHideFlags: 0
