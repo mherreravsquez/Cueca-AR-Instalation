@@ -8,6 +8,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 166289908958242880, guid: 936c6c4222c683646853a3c20334f5fe,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 381727797592075761, guid: 936c6c4222c683646853a3c20334f5fe,
         type: 3}
       propertyPath: m_VideoClip
@@ -19,6 +24,11 @@ PrefabInstance:
       propertyPath: m_TargetTexture
       value: 
       objectReference: {fileID: 8400000, guid: e9d802e067fb2484c8b6f1b293d79590, type: 2}
+    - target: {fileID: 381727797592075761, guid: 936c6c4222c683646853a3c20334f5fe,
+        type: 3}
+      propertyPath: m_TargetMaterialRenderer
+      value: 
+      objectReference: {fileID: 2986361275739771692}
     - target: {fileID: 4384550719944798656, guid: 936c6c4222c683646853a3c20334f5fe,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32,7 +42,7 @@ PrefabInstance:
     - target: {fileID: 4384550719944798656, guid: 936c6c4222c683646853a3c20334f5fe,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 15
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4384550719944798656, guid: 936c6c4222c683646853a3c20334f5fe,
         type: 3}
@@ -81,7 +91,17 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8306086268954384136, guid: 936c6c4222c683646853a3c20334f5fe,
         type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8306086268954384136, guid: 936c6c4222c683646853a3c20334f5fe,
+        type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 8386771578f3dbf4eae7cb3353c5b140, type: 2}
+    - target: {fileID: 8306086268954384136, guid: 936c6c4222c683646853a3c20334f5fe,
+        type: 3}
+      propertyPath: 'm_Materials.Array.data[1]'
       value: 
       objectReference: {fileID: 2100000, guid: 8386771578f3dbf4eae7cb3353c5b140, type: 2}
     m_RemovedComponents: []
@@ -89,3 +109,9 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 936c6c4222c683646853a3c20334f5fe, type: 3}
+--- !u!23 &2986361275739771692 stripped
+MeshRenderer:
+  m_CorrespondingSourceObject: {fileID: 8306086268954384136, guid: 936c6c4222c683646853a3c20334f5fe,
+    type: 3}
+  m_PrefabInstance: {fileID: 6499972677526422564}
+  m_PrefabAsset: {fileID: 0}
