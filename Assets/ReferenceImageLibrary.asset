@@ -27,3 +27,43 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: Stand_1
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5529075138358639184
+      m_GuidHigh: 4340331735489785750
+    m_SerializedTextureGuid:
+      m_GuidLow: 0
+      m_GuidHigh: 0
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Stand_2
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5074973328159120037
+      m_GuidHigh: 9266601980395622033
+    m_SerializedTextureGuid:
+      m_GuidLow: 0
+      m_GuidHigh: 0
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Stand_3
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4885099597483051389
+      m_GuidHigh: 2956957727177950369
+    m_SerializedTextureGuid:
+      m_GuidLow: 0
+      m_GuidHigh: 0
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Stand_4
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4822913453987561121
+      m_GuidHigh: 12905004393706182530
+    m_SerializedTextureGuid:
+      m_GuidLow: 0
+      m_GuidHigh: 0
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Stand_5
+    m_Texture: {fileID: 0}

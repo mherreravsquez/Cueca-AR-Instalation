@@ -380,6 +380,18 @@ MonoBehaviour:
   - imageName: Stand_1
     standPrefab: {fileID: 1428310282726264554, guid: 9efc11adc23f83344809c8b759a5b57b,
       type: 3}
+  - imageName: Stand_2
+    standPrefab: {fileID: 1428310282726264554, guid: 9efc11adc23f83344809c8b759a5b57b,
+      type: 3}
+  - imageName: Stand_3
+    standPrefab: {fileID: 1428310282726264554, guid: 9efc11adc23f83344809c8b759a5b57b,
+      type: 3}
+  - imageName: Stand_4
+    standPrefab: {fileID: 1428310282726264554, guid: 9efc11adc23f83344809c8b759a5b57b,
+      type: 3}
+  - imageName: Stand_5
+    standPrefab: {fileID: 1428310282726264554, guid: 9efc11adc23f83344809c8b759a5b57b,
+      type: 3}
 --- !u!4 &742340164
 Transform:
   m_ObjectHideFlags: 0
